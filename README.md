@@ -1,5 +1,5 @@
 # mayavi_render
-The input file ```data/input.txt``` is a plain text file with delimiter as SPACE and records as "rho x y z". in order to visualize the structure of high rho regions with rho-[0.05-0.08], I chose the following exponential color values which enlarge the difference of colors in when rho is higher.
+The input file ```data/input.txt``` is a plain text file with delimiter as SPACE and records as "rho x y z".[1] In order to visualize the structure of high rho regions with rho-[0.05-0.08], I chose the following exponential color values which enlarge the difference of colors in when rho is higher.
 ```
 color = exp(100*rho)
 ```
@@ -27,7 +27,6 @@ In the 3D countor plot, I plot four 3D countors, within which the probability de
 
 ```
 rho   = [0.08, 0.067,0.062,0.057]
-
 color = [1200,800,500,300] 
 ```
 
@@ -40,3 +39,5 @@ color = [1200,800,500,300]
 Also I provided scalar field view of density field.
 
 For more rendering, visit [My Galary](https://galleryziheng.wordpress.com). If you have further quesitons, contact me  zihengchen2015@u.northwestern.edu
+
+[1] The plotting data comes from Xiangxiang Sun and the team he assocated with in Institute of Physics Chinese Academy of Sciences.
