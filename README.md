@@ -1,5 +1,8 @@
 # mayavi_render
-The input file ```data/input.txt``` is a plain text file with delimiter as " " and records as "rho x y z".
+The input file ```data/input.txt``` is a plain text file with delimiter as " " and records as "rho x y z". In the color mapping, in order to visualize the structure in high rho region [0.05-0.08], I chose. 
+```
+color = exp(100*rho)
+```
 
 The notebook first reads in the input file and then makes a 2D distribution of density on z=0 plane for a quick glimpse.
 <p align="center">
