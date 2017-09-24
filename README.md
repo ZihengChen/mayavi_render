@@ -36,4 +36,4 @@ color = [1200,800,500,300]
 </p>
 Also I provided scalar field view of density field.
 
-For Questions -- [Ziheng Chen](https://galleryziheng.wordpress.com) -- zihengchen2015@u.northwestern.edu
+For more rendering, visit [My Galary](https://galleryziheng.wordpress.com). If you have further quesitons, contact me  zihengchen2015@u.northwestern.edu
