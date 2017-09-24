@@ -6,5 +6,5 @@ The notebook first reads in the input file and then makes a 2D distribution of d
 
 After that, I used [[mayavi][http://docs.enthought.com/mayavi/mayavi/]] to render 3D distritution. The 3D plots inlude a 3D scalar field cloud and a 3D countor plot.
 
-![3D_countour](plot/3D_countor.png=300x)
-![3D_scalarfield](plot/3D_scalarfield.png=300x)
+![3D_countour](plot/3D_countor.png =300x)
+![3D_scalarfield](plot/3D_scalarfield.png =300x)
