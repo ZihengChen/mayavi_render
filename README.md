@@ -23,10 +23,17 @@ The following plots inlude a 3D scalar field plot and a 3D countor plot.
 <p align="center">
 ^3D_countor plot^
 </p>
-
+In the 3D countor plot, I plot four 3D countors, within which the probability density is constant. Four 3D countors correspond to 
+```
+rho   = [0.08, 0.067,0.062,0.057]
+color = [1200,800,500,300] 
+```
 <p align="center">
 <img src="plot/3D_scalarfield.png" width="300">
 </p>
 <p align="center">
 ^3D_scalarfield plot^
 </p>
+Also I provided scalar field view of density field.
+
+For Questions -- [Ziheng Chen](https://galleryziheng.wordpress.com) -- zihengchen2015@u.northwestern.edu
