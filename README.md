@@ -26,17 +26,10 @@ The following plots inlude a 3D scalar field plot and a 3D countor plot.
 
 
 <p align="center">
-<img src="plot/3D_countor1.png" width="300">
+<img src="plot/3D_countor1.png" width="300"><img src="plot/3D_countor2.png" width="300">
 </p>
 <p align="center">
 ^3D_countor plot^
-</p>
-
-<p align="center">
-<img src="plot/3D_countor2.png" width="300">
-</p>
-<p align="center">
-^3D_countor with slicing z-plane^
 </p>
 
 
