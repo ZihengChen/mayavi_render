@@ -10,9 +10,11 @@ After that, I used [[mayavi][http://docs.enthought.com/mayavi/mayavi/]] to rende
 
 <p align="center">
 <img src="plot/3D_countor.png" width="300">
-</p>
 ^3D_countor plot^
+</p>
+
 <p align="center">
 <img src="plot/3D_scalarfield.png" width="300">
-</p>
 ^3D_scalarfield plot^
+</p>
+
