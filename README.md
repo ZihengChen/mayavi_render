@@ -10,7 +10,9 @@ This notebook first reads in the input file and then makes a 2D distribution of 
 </p>
 This is a 2D distribution of density on the z=0 plane. The density data discribes the amplitude squared of proton wavefunction in Carbon nuecleus.
 
-In the second step, I used [[**mayavi**](http://docs.enthought.com/mayavi/mayavi/) to render 3D density distritution. It is a huge pain to set up *mayavi* with *Anaconda3* on mac. The issue is Virtual Evenronment can not call window service via PySide or WX. If you are not using *Anaconda* and any other python distribution, you should go directly to Enthought Phython Distribution [**EPD**](https://www.enthought.com), which is equvalent as **Anaconda** but have 3D rendering included. Once you have EPD installed, you can run these code easily.
+In the second step, I used [**mayavi**](http://docs.enthought.com/mayavi/mayavi/) to render 3D density distritution. Mayavi is a pythonic rendering package based on C++ Visualization Toolkit which based on GPU rendering, not necessarily requring CUDA.
+
+It is a huge pain to set up *mayavi* with *Anaconda3* on mac. The issue is Virtual Evenronment can not call window service via PySide or WX. If you are not using *Anaconda* and any other python distribution, you should go directly to Enthought Phython Distribution [**EPD**](https://www.enthought.com), which is equvalent as **Anaconda** but have 3D rendering included. Once you have EPD installed, you can run these code easily.
 
 
 The following plots inlude a 3D scalar field plot and a 3D countor plot.
