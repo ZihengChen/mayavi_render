@@ -18,7 +18,7 @@ It is a huge pain to set up *mayavi* with *Anaconda3* on mac. The issue is Virtu
 The following plots inlude a 3D scalar field plot and a 3D countor plot.
 
 <p align="center">
-<img src="plot/screenshot.png" width="600">
+<img src="plot/snapshot.png" width="600">
 <img src="plot/3D_countor1.png" width="300"><img src="plot/3D_countor2.png" width="300">
 </p>
 <p align="center">
