@@ -1,7 +1,7 @@
 from pylab import *
 from mayavi import mlab
 
-image = np.fromfile("data/output_img.dat").reshape(80,80,80)
+image = np.fromfile("/Users/zihengchen/Documents/Notebooks/mayavi_render/data/output_img.dat").reshape(80,80,80)
 
 mlab.clf()
 src = mlab.pipeline.scalar_field(image)
